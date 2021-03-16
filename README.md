@@ -1,5 +1,5 @@
 # PortaFolio
-Este es mi portafolios donde vereis todo sobre.
+Este es mi portafolios donde vereis todo sobre,
 
 <img src="https://media.giphy.com/media/ckeHl52mNtoq87veET/giphy.gif"/>
 
